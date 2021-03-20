@@ -1,5 +1,7 @@
 .idea
-taf-11.3-strukturierte-programmierung.iml
+*.iml
+*.ipr
+*.iws
 
 # Compiled class file
 *.class
