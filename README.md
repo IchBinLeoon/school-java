@@ -28,7 +28,9 @@
     * [Aufgabe 1](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/%C3%9Cbungsaufgaben%20zur%20Strukturierten%20Programmierung/%C3%9Cbungsaufgaben%20-%20Methoden/MethodenAufgabe1.java)
     * [Aufgabe 2](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/%C3%9Cbungsaufgaben%20zur%20Strukturierten%20Programmierung/%C3%9Cbungsaufgaben%20-%20Methoden/MethodenAufgabe2.java)
     * [Zusatzaufgabe](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/%C3%9Cbungsaufgaben%20zur%20Strukturierten%20Programmierung/%C3%9Cbungsaufgaben%20-%20Methoden/MethodenZusatzaufgabe.java)
-    
+* #### Übungsaufgaben - Sonstige
+    * [Aschenputtel](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/%C3%9Cbungsaufgaben%20zur%20Strukturierten%20Programmierung/%C3%9Cbungsaufgaben%20-%Sonstige/Aschenputtel.java)
+
 ### Weitere Übungen
 * #### Übung 1 - Methoden und Arrays
     * [Aufgabe 1](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/Weitere%20%C3%9Cbungen/%C3%9Cbung%201%20-%20Methoden%20und%20Arrays/MethodenundArraysAufgabe1.java)
@@ -43,7 +45,3 @@
 * #### Übung 4 - Arrays
     * [Aufgabe 1](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/Weitere%20%C3%9Cbungen/%C3%9Cbung%204%20-%20Arrays/ArraysAufgabe1.java)
     * [Aufgabe 2](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/Weitere%20%C3%9Cbungen/%C3%9Cbung%204%20-%20Arrays/ArraysAufgabe2.java)
-
-### Zusatzaufgaben
-* [WeitereAufgabenzuListenundSchleifen](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/Zusatzaufgaben/WeitereAufgabenzuListenundSchleifen.java)
-* [Lottoprogramm](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/Zusatzaufgaben/Lottoprogramm.java)
