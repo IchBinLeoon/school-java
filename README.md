@@ -29,7 +29,7 @@
     * [Aufgabe 2](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/%C3%9Cbungsaufgaben%20zur%20Strukturierten%20Programmierung/%C3%9Cbungsaufgaben%20-%20Methoden/MethodenAufgabe2.java)
     * [Zusatzaufgabe](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/%C3%9Cbungsaufgaben%20zur%20Strukturierten%20Programmierung/%C3%9Cbungsaufgaben%20-%20Methoden/MethodenZusatzaufgabe.java)
 * #### Übungsaufgaben - Sonstige
-    * [Aschenputtel](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/%C3%9Cbungsaufgaben%20zur%20Strukturierten%20Programmierung/%C3%9Cbungsaufgaben%20-%Sonstige/Aschenputtel.java)
+    * [Aschenputtel](https://github.com/IchBinLeoon/taf-11.3-strukturierte-programmierung/blob/main/%C3%9Cbungsaufgaben%20zur%20Strukturierten%20Programmierung/%C3%9Cbungsaufgaben%20-%20Sonstige/Aschenputtel.java)
 
 ### Weitere Übungen
 * #### Übung 1 - Methoden und Arrays
