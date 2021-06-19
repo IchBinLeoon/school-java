@@ -26,7 +26,7 @@ class Rennschnecke {
     }
 
     public String toString() {
-        return name + "" + rasse + ":" + maxspeed + "@" + strecke;
+        return name + "." + rasse + ":" + maxspeed + "@" + strecke;
     }
 
 }
